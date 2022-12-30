@@ -1,11 +1,12 @@
 # Diabetes-Prediction
 ## Objective
+
 ## Techniques Used
-Data Cleaning
-Data Visualization
-Data Preprocessing
-Data Modeling
-Model Evaluation
+• Data Cleaning
+• Data Visualization
+• Data Preprocessing
+• Data Modeling
+• Model Evaluation
 ## Algortihms Used
 1. Logistic Regression
 2. Support Vector Machine
@@ -19,16 +20,16 @@ Model Evaluation
 3. Confusion Matrix
 ## Guide Lines
 ### Packages and Tools Required:
-Pandas 
-Matplotlib
-Seaborn
-Scikit Learn
-Jupyter Notebook
+• Pandas 
+• Matplotlib
+• Seaborn
+• Scikit Learn
+• Jupyter Notebook
 ### Package Installation
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install scikit-learn
-pip install matplotlib
+• pip install numpy
+• pip install pandas
+• pip install seaborn
+• pip install scikit-learn
+• pip install matplotlib
 
 Jupyter Notebook Installation Guide https://jupyter.org/install
